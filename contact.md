@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/contact-page-header.png
+cover: .gitbook/assets/contact-page-header-1.png
 coverY: 0
 layout:
   width: default

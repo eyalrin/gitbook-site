@@ -1,1 +1,1 @@
-Eyal Ringort's PPersonal Website
+Eyal Ringort's Personal Website

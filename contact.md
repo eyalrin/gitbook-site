@@ -32,6 +32,14 @@ Thanks for stopping by!
 
 I'm always happy to connect and discuss technology, open source, software architecture, developer experience, and interesting projects.
 
+### 🌐 Find Me Online
+
+| Platform       | Link                            |
+| -------------- | ------------------------------- |
+| 🔵 Facebook    | https://facebook.com/eyalrin    |
+| 💼 LinkedIn    | https://linkedin.com/in/eyalrin |
+| ✖️ X (Twitter) | https://x.com/eyalrin           |
+
 ***
 
 ### 🤝 Let's Connect
@@ -43,7 +51,7 @@ Whether you want to:
 * Talk about DevOps, IoT, Embedded Linux, or AI
 * Share feedback on my work
 
-Feel free to reach out through any of the platforms below.
+Feel free to reach out through any of the platforms above.
 
 ***
 

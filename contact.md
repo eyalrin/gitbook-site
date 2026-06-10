@@ -42,11 +42,7 @@ Whether you want to:
 * Collaborate on a project
 * Share feedback on my work
 
-Feel free to reach out through any of the platforms below.
-
-***
-
-#### 🚀 Building, Learning, and Sharing
+Feel free to reach out through any of the platforms below:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/eyal.ringort) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/eyalrin) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/eyalrin)
 

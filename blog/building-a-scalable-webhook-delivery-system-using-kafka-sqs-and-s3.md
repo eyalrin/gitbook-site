@@ -33,6 +33,8 @@ Right off the bat it was clear to us that our system would have 2 main tiers: Th
 
 Used for registering and configuring webhooks. We decided to go for the most straightforward solution and have a REST API. The API can be used by an end user (the webhook subscriber) or by another application.
 
+<figure><img src="../.gitbook/assets/api-unbranded-dark-with-bg.png" alt=""><figcaption></figcaption></figure>
+
 The endpoints URL is structured as `[base-path]/webhooks/<entity>`.
 
 Defined 3 object types:
@@ -90,6 +92,8 @@ To create a webhook there is a 3 step process:
 #### The Brain Tier <a href="#heading-the-brain-tier" id="heading-the-brain-tier"></a>
 
 The tier that will be responsible for the actual sending of webhooks. It is sensible to break it down to even smaller pieces, allowing us to scale different areas of the system independently from other areas that do not need the same scaling.
+
+<figure><img src="../.gitbook/assets/brain-unbranded-dark-with-bg.png" alt=""><figcaption></figcaption></figure>
 
 First, let’s define some simple terminology:
 

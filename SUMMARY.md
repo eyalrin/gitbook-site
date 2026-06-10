@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About](README.md)
+* [Contact](contact.md)
 
 ## blog
 

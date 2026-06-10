@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](about.md)
+* [About](README.md)
 
 ## blog
 

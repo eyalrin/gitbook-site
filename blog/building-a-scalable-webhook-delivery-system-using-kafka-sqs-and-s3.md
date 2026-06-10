@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/webhooks-post-header.png
+cover: ../.gitbook/assets/webhooks-post-header.png
 coverY: 0
 ---
 

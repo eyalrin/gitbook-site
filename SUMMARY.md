@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Eyal Ringort](README.md)
+* [Eyal Ringort](about.md)
 
 ## blog
 

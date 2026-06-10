@@ -1,5 +1,6 @@
 ---
 description: You know the long-running debate around where code documentation should live?
+cover: ../.gitbook/assets/diagrams-post-header.png
 coverY: 0
 ---
 
